@@ -7,7 +7,7 @@ namespace sqlite3Test
 {
     public partial class Form1 : Form
     {
-        //FileName
+        //FileName, find on Root Directory (H:\C#sauceCode\sqlite3Test\sqlite3Test\bin\Debug\net6.0-windows) <- Example of My root Directory
         public const String nameFile = "nameOfDatabase.sqlite";
         public const String connection = "Data Source=nameOfDatabase.sqlite;Version=3;";
         //Ready Connection
